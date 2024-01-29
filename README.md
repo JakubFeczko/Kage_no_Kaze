@@ -12,3 +12,19 @@ To download the project:
 
  the completed game can be downloaded using the link below:
  (https://1drv.ms/u/s!Au6sJeZ-719whfg0fwq8BzxQc538FQ?e=wISgSO)
+
+<p align="center">
+  <img src="https://github.com/JakubFeczko/Kage_no_Kaze/blob/main/Assets/Image/Fight.png?raw=true" alt="image">
+</p>
+
+<p align="center">
+  <img src="https://github.com/JakubFeczko/Kage_no_Kaze/blob/main/Assets/Image/Level1.png?raw=true" alt="image">
+</p>
+
+<p align="center">
+  <img src="https://github.com/JakubFeczko/Kage_no_Kaze/blob/main/Assets/Image/Level2.png?raw=true" alt="image">
+</p>
+
+<p align="center">
+  <img src="https://github.com/JakubFeczko/Kage_no_Kaze/blob/main/Assets/Image/Menu.png?raw=true" alt="image">
+</p>
