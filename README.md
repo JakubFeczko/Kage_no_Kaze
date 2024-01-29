@@ -1,17 +1,29 @@
-# Kage no Kaze
+# Kage no Kaze Project
+### _An Immersive VR Adventure_
 
-The Kage no Kaze project is a game utilizing virtual reality, focusing on a single player, created using the Unity engine with Blender for graphic modeling. 
-Oriented towards realistic and dynamic combat scenes, logical puzzles, and exploration of diverse environments, the project provides an immersive experience full of action and adventure. 
-The aim of the game is to provide players with a varied and engaging experience, largely dependent on the mechanics used.
+## About the Game
+"Kage no Kaze" is a virtual reality game focused on single-player experiences, developed using the Unity engine with Blender for graphic modeling. The game combines realistic and dynamic combat scenes, challenging logical puzzles, and exploration of diverse environments, offering an immersive experience filled with action and adventure. The goal of "Kage no Kaze" is to provide players with a varied and engaging experience, largely dependent on innovative game mechanics.
 
-To download the project:
-1. Clone the repository to your device.
-2. Launch Unity.
-3. Choose the cloned project and open it.
-4. Download dependent assets from the asset store
+## Key Features
+- **Dynamic Combat**: Engage in realistic and dynamic battle scenes.
+- **Puzzle Solving**: Challenge yourself with intriguing puzzles.
+- **Exploration**: Discover and explore diverse environments.
 
- The completed game can be downloaded using the link below:
- [Download the full game here](https://1drv.ms/u/s!Au6sJeZ-719whfg0fwq8BzxQc538FQ?e=wISgSO)
+## Getting Started
+To get started with "Kage no Kaze":
+1. **Clone the Repository**: Download the project files to your device.
+2. **Launch Unity**: Open your Unity application.
+3. **Open the Project**: Find and open the cloned project.
+4. **Download Assets**: Ensure you download the necessary assets from the Unity asset store.
+
+## Download the Game
+Ready to embark on this thrilling adventure?
+[Download the full game here](https://1drv.ms/u/s!Au6sJeZ-719whfg0fwq8BzxQc538FQ?e=wISgSO)
+
+## Gameplay Preview
+Curious about how "Kage no Kaze" looks in action? We've got you covered! Watch our comprehensive gameplay video to get a glimpse of the thrilling adventures, intense combat, and intricate puzzles that await you in the game.
+
+[Watch the full gameplay here](https://1drv.ms/u/s!Au6sJeZ-719whfgygh2G32HwdSSf1A?e=LTZHFY)
 
 <h3 align="center">Combat Scene</h3>
 <p align="center">
