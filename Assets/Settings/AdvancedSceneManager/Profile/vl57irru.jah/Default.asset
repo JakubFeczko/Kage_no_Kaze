@@ -1,0 +1,271 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8691071391750479166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bd3886436e609044aafef03c8894287, type: 3}
+  m_Name: Default - Level 2
+  m_EditorClassIdentifier: 
+  m_id: z9el3hmk.hqp
+  m_title: Level 2
+  m_description: 
+  m_scenes:
+  - {fileID: 11400000, guid: d3ebd9d1ab6fcab489e9290910d28099, type: 2}
+  m_prefix: 'Default - '
+  m_loadingScreenUsage: 2
+  m_loadingScreen: {fileID: 11400000, guid: 1b8e1c7816f2ed2408e6e78d91bdc932, type: 2}
+  m_activeScene: {fileID: 11400000, guid: d3ebd9d1ab6fcab489e9290910d28099, type: 2}
+  hasSetDefaultActiveScene: 0
+  m_unloadUnusedAssets: 1
+  m_openAsPersistent: 0
+  m_openAsDisabled: 0
+  m_extraData: {fileID: 0}
+  m_startupOption: 0
+  m_loadingPriority: -2
+  m_isIncluded: 1
+  m_isLocked: 0
+  m_lockMessage: 
+  m_scenesThatShouldNotAutomaticallyOpen: []
+  m_binding:
+    m_buttons: []
+    m_openCollectionAsAdditive: 0
+    m_interactionType: 0
+--- !u!114 &-6854076369384641285
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bd3886436e609044aafef03c8894287, type: 3}
+  m_Name: Default - Level 3
+  m_EditorClassIdentifier: 
+  m_id: ypk282om.mfm
+  m_title: Level 3
+  m_description: 
+  m_scenes:
+  - {fileID: 11400000, guid: 2041896eb0f27f64c9d83789353fd49f, type: 2}
+  m_prefix: 'Default - '
+  m_loadingScreenUsage: 1
+  m_loadingScreen: {fileID: 0}
+  m_activeScene: {fileID: 11400000, guid: 2041896eb0f27f64c9d83789353fd49f, type: 2}
+  hasSetDefaultActiveScene: 0
+  m_unloadUnusedAssets: 1
+  m_openAsPersistent: 0
+  m_openAsDisabled: 0
+  m_extraData: {fileID: 0}
+  m_startupOption: 0
+  m_loadingPriority: -2
+  m_isIncluded: 1
+  m_isLocked: 0
+  m_lockMessage: 
+  m_scenesThatShouldNotAutomaticallyOpen: []
+  m_binding:
+    m_buttons: []
+    m_openCollectionAsAdditive: 0
+    m_interactionType: 0
+--- !u!114 &-5064720618675501325
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bd3886436e609044aafef03c8894287, type: 3}
+  m_Name: New collec - Startup (persistent)
+  m_EditorClassIdentifier: 
+  m_id: yu3uocfk.akk
+  m_title: Startup (persistent)
+  m_description: 
+  m_scenes:
+  - {fileID: 11400000, guid: 6140916559075ed40a580a3f0efbd5ad, type: 2}
+  m_prefix: 'New collec - '
+  m_loadingScreenUsage: 2
+  m_loadingScreen: {fileID: 0}
+  m_activeScene: {fileID: 11400000, guid: 6140916559075ed40a580a3f0efbd5ad, type: 2}
+  hasSetDefaultActiveScene: 0
+  m_unloadUnusedAssets: 1
+  m_openAsPersistent: 0
+  m_openAsDisabled: 0
+  m_extraData: {fileID: 0}
+  m_startupOption: 1
+  m_loadingPriority: -2
+  m_isIncluded: 1
+  m_isLocked: 0
+  m_lockMessage: 
+  m_scenesThatShouldNotAutomaticallyOpen: []
+  m_binding:
+    m_buttons: []
+    m_openCollectionAsAdditive: 0
+    m_interactionType: 0
+--- !u!114 &-1588959461907022351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bd3886436e609044aafef03c8894287, type: 3}
+  m_Name: Default - Level 1
+  m_EditorClassIdentifier: 
+  m_id: kyrb4i6c.919
+  m_title: Level 1
+  m_description: 
+  m_scenes:
+  - {fileID: 11400000, guid: 5414651ad9c00834bb837de54d1027e3, type: 2}
+  m_prefix: 'Default - '
+  m_loadingScreenUsage: 2
+  m_loadingScreen: {fileID: 11400000, guid: 1b8e1c7816f2ed2408e6e78d91bdc932, type: 2}
+  m_activeScene: {fileID: 11400000, guid: 5414651ad9c00834bb837de54d1027e3, type: 2}
+  hasSetDefaultActiveScene: 0
+  m_unloadUnusedAssets: 1
+  m_openAsPersistent: 0
+  m_openAsDisabled: 0
+  m_extraData: {fileID: 0}
+  m_startupOption: 0
+  m_loadingPriority: 4
+  m_isIncluded: 1
+  m_isLocked: 0
+  m_lockMessage: 
+  m_scenesThatShouldNotAutomaticallyOpen: []
+  m_binding:
+    m_buttons: []
+    m_openCollectionAsAdditive: 0
+    m_interactionType: 0
+--- !u!114 &-962543870586132002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bd3886436e609044aafef03c8894287, type: 3}
+  m_Name: Default - Main menu
+  m_EditorClassIdentifier: 
+  m_id: c3wtss87.s38
+  m_title: Main menu
+  m_description: 
+  m_scenes:
+  - {fileID: 11400000, guid: af115ebcb415c3742bd733ca16ef0d91, type: 2}
+  m_prefix: 'Default - '
+  m_loadingScreenUsage: 2
+  m_loadingScreen: {fileID: 11400000, guid: 1b8e1c7816f2ed2408e6e78d91bdc932, type: 2}
+  m_activeScene: {fileID: 11400000, guid: af115ebcb415c3742bd733ca16ef0d91, type: 2}
+  hasSetDefaultActiveScene: 0
+  m_unloadUnusedAssets: 1
+  m_openAsPersistent: 0
+  m_openAsDisabled: 0
+  m_extraData: {fileID: 0}
+  m_startupOption: 0
+  m_loadingPriority: -2
+  m_isIncluded: 1
+  m_isLocked: 0
+  m_lockMessage: 
+  m_scenesThatShouldNotAutomaticallyOpen: []
+  m_binding:
+    m_buttons: []
+    m_openCollectionAsAdditive: 0
+    m_interactionType: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed0f1fcb14f10114ca58b525ad780b5b, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  m_id: vl57irru.jah
+  m_startupScene: {fileID: 0}
+  m_loadingScreen: {fileID: 11400000, guid: 1b8e1c7816f2ed2408e6e78d91bdc932, type: 2}
+  m_splashScreen: {fileID: 11400000, guid: 6140916559075ed40a580a3f0efbd5ad, type: 2}
+  m_startupLoadingScreen: {fileID: 11400000, guid: 1b8e1c7816f2ed2408e6e78d91bdc932,
+    type: 2}
+  m_backgroundLoadingPriority: 1
+  m_enableChangingBackgroundLoadingPriority: 0
+  m_createCameraDuringStartup: 0
+  m_unloadUnusedAssetsForStandalone: 1
+  m_collections:
+  - {fileID: -962543870586132002}
+  - {fileID: -1588959461907022351}
+  - {fileID: -8691071391750479166}
+  - {fileID: -6854076369384641285}
+  m_dynamicCollections: []
+  m_standaloneDynamicCollection:
+    m_id: u9LYP2qPW0upB5jf2hBe7g
+    m_scenes:
+    - {fileID: 11400000, guid: 1b8e1c7816f2ed2408e6e78d91bdc932, type: 2}
+    m_sceneBindings:
+      m_throw: 1
+      m_keys:
+      - DefaultPauseScreen
+      - InGameToolbar
+      m_values:
+      - m_buttons:
+        - name: escape
+          path: /Keyboard/escape
+        - name: tab
+          path: /Keyboard/start
+        m_openCollectionAsAdditive: 0
+        m_interactionType: 2
+      - m_buttons:
+        - name: start
+          path: /Keyboard/tab
+        - name: select
+          path: /Keyboard/select
+        m_openCollectionAsAdditive: 0
+        m_interactionType: 2
+--- !u!114 &4037014353668999283
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bd3886436e609044aafef03c8894287, type: 3}
+  m_Name: Default - Startup
+  m_EditorClassIdentifier: 
+  m_id: uatryqbr.8lm
+  m_title: Startup
+  m_description: 
+  m_scenes:
+  - {fileID: 11400000, guid: 6140916559075ed40a580a3f0efbd5ad, type: 2}
+  - {fileID: 0}
+  m_prefix: 'Default - '
+  m_loadingScreenUsage: 2
+  m_loadingScreen: {fileID: 11400000, guid: 1b8e1c7816f2ed2408e6e78d91bdc932, type: 2}
+  m_activeScene: {fileID: 11400000, guid: 6140916559075ed40a580a3f0efbd5ad, type: 2}
+  hasSetDefaultActiveScene: 0
+  m_unloadUnusedAssets: 1
+  m_openAsPersistent: 1
+  m_openAsDisabled: 0
+  m_extraData: {fileID: 0}
+  m_startupOption: 2
+  m_loadingPriority: 2
+  m_isIncluded: 1
+  m_isLocked: 0
+  m_lockMessage: 
+  m_scenesThatShouldNotAutomaticallyOpen: []
+  m_binding:
+    m_buttons: []
+    m_openCollectionAsAdditive: 0
+    m_interactionType: 0
